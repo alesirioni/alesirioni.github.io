@@ -13,6 +13,6 @@ Abierto a recibir sugerencias.
  >´´ Empecé solucionando el problema de "el cosito que va en el coso"... 
 Ahora me dedico al Diseño de Experiencia de Usuario. ´´.
 
-Por mas dellates de formación y experiencai de trabajo los invito a  [Agregame en Linkedin] (https://www.linkedin.com/in/alejandro-sirioni/) y [Seguir los shots de mis trabajos en Dribbble](http://dribbble.com/asirioni)
+Por mas información personal, formación academica y experiencia de trabajo  los invito a  [Agregame en Linkedin](https://www.linkedin.com/in/alejandro-sirioni/) y [Seguir los shots de mis trabajos en Dribbble](http://dribbble.com/asirioni)
 
  
