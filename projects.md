@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyectos
-permalink: /proyects/
+permalink: /projects/
 ---
 
 {% include thumbnails.html %}
