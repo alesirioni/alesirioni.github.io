@@ -1,34 +1,10 @@
-# Created by http://www.gitignore.io
-
-### OSX ###
+_site
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-
-### Jekyll ###
-_site/
-
-### Sass ###
+.jekyll
+.jekyll-metadata
+.bundle
 .sass-cache
-
-### Gemfile ###
+Gemfile
 Gemfile.lock
+node_modules
+package.json
