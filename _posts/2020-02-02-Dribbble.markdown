@@ -9,7 +9,8 @@ tags: [Dribbble, UI, Figma, Challenger] # add tag
 
 A partir de la iniciativa del grupo de Discord de Service Design Club's en realizar los desafios de la Daily UI Challenger de forma semanal para practicar y experimentar con diferentes herramientas y tecnicas.  
 
-### [![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)](http://dribbble.com/asirioni) : 
+### [Seguime en Dribbble)](http://dribbble.com/asirioni) : 
+### [![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)](http://dribbble.com/asirioni)
 
 
 
