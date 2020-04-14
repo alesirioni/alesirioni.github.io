@@ -1,20 +1,24 @@
 ---
 layout: post
 title: Big Mentor Case Study
-date: 2017-09-12 13:32:20 +0300
+date: 2020-01-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: big1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+Mi primero proyecto ux/ui, 100% aprendizaje. Surgio la idea de realizar una app sobre mentoreo. Dada la problematica que cuando uno quiere aprender algo o dedicarse a algo siempre falta un consejo o una ayudita de alguien que este en el mercado profesional y con experiencia.
+Cursos hay muchos y la idea era que sea personalizado a la problematica del mentoriado. 
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+## Se aprendio de los errores
+Se comenzo con una idea que parecia ser innovadora y genial ! ... pero ... cuando se hizo la prueba con los usuarios ellos en sus acciones demostraron todo lo contrario, no les resultaba comoda, pedian listados de mentores y varias sugerencias que hicieron re estudiar y  girar el proyecto. Escuchando a los usuarios pudimos realizar muchas modificaciones teniendo un producto con bastante pruebas. 
 
-![I and My friends]({{site.baseurl}}/assets/img/bigmentor.png)
+## Reporte UX/UI
+A continuacion el reporte del estudio de caso. El cual se sigue iterrando y aprendiendo dia a dia con los diferentes feedback.
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+![REPORTE UX/UI]({{site.baseurl}}/assets/img/bigmentor.png)
+
+
 
 >Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
 
