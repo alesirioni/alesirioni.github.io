@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre mi"
-date: 2017-04-06 13:32:20 +0300
+date: 2020-03-03 13:32:20 +0300
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
@@ -13,6 +13,6 @@ Abierto a recibir sugerencias.
  >´´ Empecé solucionando el problema de "el cosito que va en el coso"... 
 Ahora me dedico al Diseño de Experiencia de Usuario. ´´.
 
-* [Agregame en Linkedin)](https://www.linkedin.com/in/alejandro-sirioni/)
-* [Seguime en Dribbble)](http://dribbble.com/asirioni)
-* 
+Por mas dellates de formación y experiencai de trabajo los invito a  [Agregame en Linkedin] (https://www.linkedin.com/in/alejandro-sirioni/) y [Seguir los shots de mis trabajos en Dribbble](http://dribbble.com/asirioni)
+
+ 
