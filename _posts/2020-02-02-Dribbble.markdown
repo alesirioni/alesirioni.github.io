@@ -11,7 +11,7 @@ A partir de la iniciativa del grupo de Discord de Service Design Club's, realic√
 
 En estos conceptos utilic√© la herramienta Figma. 
 
-### [Seguime en Dribbble)](http://dribbble.com/asirioni) : 
+### [Seguime en Dribbble](http://dribbble.com/asirioni) : 
 ### [![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)](http://dribbble.com/asirioni)
 
 
