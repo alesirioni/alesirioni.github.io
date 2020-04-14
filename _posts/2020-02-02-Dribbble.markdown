@@ -1,16 +1,16 @@
 ---
 layout: post
-title: UI Challenger del 1 al 3
+title: UI Challenger (1 al 3)
 date: 2017-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+description: Algunos de los desafios de UI. # Add post description (optional)
+img: ui.png # Add image post (optional)
 tags: [Dribbble, UI, Figma, Challenger] # add tag
 ---
 
 A partir de la iniciativa del grupo de Discord de Service Design Club's en realizar los desafios de la Daily UI Challenger de forma semanal para practicar y experimentar con diferentes herramientas y tecnicas.  
 
-![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)
 ### [SEGUIME EN DRIBBBLE](http://dribbble.com/asirioni) : 
+![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)
 
 
 
