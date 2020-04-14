@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre mi"
-date: 2020-03-03 13:32:20 +0300
+date: 2020-01-01 13:32:20 +0300
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
