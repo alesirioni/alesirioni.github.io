@@ -939,6 +939,7 @@ table tfoot td {
 .about {
   margin: 0 0 40px;
   text-align: center;
+   color:#fafafa;
 }
 
 .about .cover-author-image {
