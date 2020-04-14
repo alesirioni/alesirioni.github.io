@@ -5,9 +5,9 @@ date: 2020-01-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: big1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [UX, UI, Case study,Mentor, App, Coderhouse]
 ---
-Mi primero proyecto ux/ui, 100% aprendizaje. Surgio la idea de realizar una app sobre mentoreo. Dada la problematica que cuando uno quiere aprender algo o dedicarse a algo siempre falta un consejo o una ayudita de alguien que este en el mercado profesional y con experiencia.
+Mi primer proyecto ux/ui, 100% aprendizaje. Surgio la idea de realizar una app sobre mentoreo. Dada la problematica que cuando uno quiere aprender algo o dedicarse a algo siempre falta un consejo o una ayudita de alguien que este en el mercado profesional y con experiencia.
 Cursos hay muchos y la idea era que sea personalizado a la problematica del mentoriado. 
 
 ## Se aprendio de los errores
