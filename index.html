@@ -10,7 +10,14 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+  
+    {% for post in site.tags[this_word] %}{% if post.title != null %}
+    <div class="tag-list">
+        <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date_to_string }}</span></small>
+    </div>
+    {% endif %}{% endfor %}
+    
   </div>
 </article>
 {% endfor %}
