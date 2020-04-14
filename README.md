@@ -5,7 +5,7 @@
 ## Desarrollo
 
 
-![bigmentor](alesirioni.github.io/assets/img/big1.png)
+![bigmentor](https://alesirioni.github.io/assets/img/big1.png)
 
 
 
