@@ -7,27 +7,33 @@ img: ui.png # Add image post (optional)
 tags: [Dribbble, UI, Figma, Challenger] # add tag
 ---
 
-A partir de la iniciativa del grupo de Discord de Service Design Club's en realizar los desafios de la Daily UI Challenger de forma semanal para practicar y experimentar con diferentes herramientas y tecnicas.  
+A partir de la iniciativa del grupo de Discord de Service Design Club's, realicé los desafíos de la Daily UI Challenger de forma semanal para practicar y experimentar con diferentes herramientas y técnicas.  
 
-### [Seguime en Dribbble)](http://dribbble.com/asirioni) : 
+En estos conceptos utilicé la herramienta Figma. 
+
+### [Seguime en Dribbble](http://dribbble.com/asirioni) : 
 ### [![DRIBBBLE]({{site.baseurl}}/assets/img/dribbble.png)](http://dribbble.com/asirioni)
 
 
 
 
-### Daily UI #001 : 
-
-![Daily UI]({{site.baseurl}}/assets/img/login.png)
-
-
-
-### Daily UI #002 : 
-
-![Daily UI]({{site.baseurl}}/assets/img/cowork.png)
+### Daily UI #001 : Sign Up
+[![Daily UI]({{site.baseurl}}/assets/img/login.png)](https://dribbble.com/shots/10789878-Daily-UI-001-Sign-up-Space)
 
 
 
-### Daily UI #003 : 
+### Daily UI #002 : Checkout Credit Card
 
-![Daily UI]({{site.baseurl}}/assets/img/orange.png)
+[![Daily UI]({{site.baseurl}}/assets/img/cowork.png)](https://dribbble.com/shots/10845341-Daily-UI-2-Checkout-credit-card-Coworking)
+
+
+
+### Daily UI #003 : Landing Page
+
+[![Daily UI]({{site.baseurl}}/assets/img/orange.png)](https://dribbble.com/shots/10917492--DailyUI-003-Landing-Page-Orange-Coin-Crypto)
+
+
+### Próximamente Más . . .
+
+### Actualmente trabajando en un nuevo estudio de caso de ux completo (prox. a publicar). . .
 
