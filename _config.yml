@@ -20,7 +20,7 @@ social-dribbble: asirioni # add your Email address
 discus-identifier: Ale # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-164006707-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
